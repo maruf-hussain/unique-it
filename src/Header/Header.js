@@ -15,6 +15,8 @@ const Header = () => {
 <NavLink className="na"    to="/service">Explore</NavLink>
 <NavLink className="daa"   to="/dashbord">DASHBOARD</NavLink>
 <NavLink className="na"   to="/login">Login</NavLink>
+<NavLink className="na"   to="/login">Login</NavLink>
+
 
                 
                     </Navbar>            
@@ -24,5 +26,4 @@ const Header = () => {
     </div>
     );
 };
-
 export default Header;
