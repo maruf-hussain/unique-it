@@ -1,5 +1,12 @@
 .register-form{
-    background-color: rgb(236, 173, 96);
+    width: 600px;
+    height: 400px;
+ margin: auto;
+border-radius: 5px;
+background-color: rgb(242, 242, 250);
+padding: 20px;
+border-radius: 5px;
+border: 1px solid greenyellow;
     
 }
 
@@ -10,3 +17,10 @@
     margin-bottom: 10px;
 } 
 
+.submit-reg{
+    background-color: rgb(3, 173, 74);
+    border: none;
+    color: aliceblue;
+   padding: 10px 20px;
+    border-radius: 20px;
+}

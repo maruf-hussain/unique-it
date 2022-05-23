@@ -10,16 +10,7 @@
     text-decoration: none;
     font-size: x-large;
 }
-.daa{
-    color: rgb(4, 15, 17);
-    margin-left: 90px;
-    margin-right: 90px;
-    text-decoration: none;
-    font-size: large;
-    background-color:rgb(0, 162, 255);
-    padding: 5px;
-    border-radius:5px;
-}
+
 
 .log-in{
     background-color:rgb(7, 197, 38);
@@ -37,3 +28,110 @@
     color: white;
 
 }
+
+
+
+.modal-bg{
+    border: 1px solid greenyellow;
+}
+
+
+
+
+
+button img {
+    height: 60px;
+    width: 60px;
+
+   
+
+} 
+
+.log-butt{
+    background-color: rgb(8, 115, 255);
+    border-radius: 5px;
+    border: none;
+    color: aliceblue;
+    padding: 5px 10px;
+    
+}
+
+p{
+    color: rgb(14, 214, 74);
+}
+.log-but{
+    background-color: rgb(230, 9, 9);
+    border-radius: 5px;
+    border: none;
+    color: aliceblue;
+    padding: 5px 10px;
+    
+}
+
+
+
+
+.log-but:hover{
+    background-color: rgb(18, 207, 43);
+ 
+}
+
+.log-butt:hover{
+    background-color: rgb(9, 168, 30);
+ 
+}
+
+
+
+.g-bgbutton{
+    border: none;
+   
+    
+}
+
+.g-button{
+    border: none;
+   margin-left: 10px;
+    
+}
+
+.form-full{
+    width: 420px;
+    height: 280px;
+ 
+ margin: auto;
+border-radius: 5px;
+background-color: rgb(230, 230, 230);
+padding: 20px;
+
+}
+
+h6{
+    color:rgb(253, 253, 253);
+    font-weight: 400;
+}
+
+h5{
+    color:rgb(0, 0, 0);
+    font-weight: 400;
+   
+} 
+
+.input{
+   margin-top: 15px;
+}
+.submit{
+    margin-top: 10px;
+    background-color: rgb(117, 0, 251);
+    border:none;
+    padding:4px 50px;
+    border-radius: 30px;
+    margin-bottom: 10px;
+    color: white;
+  
+}
+
+.bg-primary {
+    --bs-bg-opacity: 1;
+    background-color: rgb(255, 51, 0) !important;
+  }
